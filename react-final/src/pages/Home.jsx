@@ -1,9 +1,10 @@
+import cars from "../data/cars";
 import Header from "../components/Header";
 import SearchBar from "../components/SearchBar";
 import Filters from "../components/Filters";
 import CarGrid from "../components/CarGrid";import "./Home.css";
 import "./Home.css";
-import Header from "../components/Header";
+
 
 
 
