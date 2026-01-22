@@ -1,8 +1,9 @@
 import React, { useState } from "react";
-import SearchBar from "./components/SearchBar";
-import Filters from "./components/Filters";
-import CarGrid from "./components/CarGrid";
-import "./App.css";
+import SearchBar from "./SearchBar";
+import Filters from "./Filters";
+import CarGrid from "./CarGrid";
+import App from "./components/App";
+
 
 function App() {
   // Search + filter state
@@ -74,7 +75,6 @@ function App() {
 }
 
 export default App;
-
 
 
 
