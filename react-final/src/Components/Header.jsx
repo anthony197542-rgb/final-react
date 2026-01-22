@@ -1,7 +1,11 @@
+import "./Header.css";
+
+
+
 function Header() {
   return (
     <header className="header">
-      <h2>CarMax Clone</h2>
+      <h2>AutoFinder</h2>
     </header>
   );
 }
